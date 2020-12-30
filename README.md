@@ -1,2 +1,3 @@
 # hello-world
-Starting
+
+Here to learn about the environment.
